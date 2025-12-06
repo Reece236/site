@@ -1,0 +1,48 @@
+{
+    "basic_info": {
+      "name": "Reece Calvin",
+      "titles": [ "Data Scientist", "Data Engineer", "Baseball Analytics", "Baseball Player Development" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Reece236",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/reece_ca1vin",
+          "class": "fab fa-twitter"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-wordmark",
+          "level": "95"
+        },
+        {
+          "name": "Baseball Analytics",
+          "class": "devicon-baseball-plain",
+          "level": "90"
+        },
+        {
+          "name": "Machine Learning",
+          "class": "IBM-machine-learning-model",
+          "level": "90"
+        },
+        {
+          "name": "Rapsodo",
+          "class": "devicon-baseball-plain",
+          "level": "80"
+        },
+        {
+          "name": "SQL",
+          "class": "devicon-sqldeveloper-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

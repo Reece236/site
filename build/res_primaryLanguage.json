@@ -1,0 +1,110 @@
+{
+    "basic_info": {
+      "description_header": "Hello!",
+      "description": "I'm Reece Calvin. I'm a data scientist specializing in baseball analytics. I'm currently working with Northeastern Baseball and the Hiroshima Toyo Carp. As a Data Analyst at Hiroshima Toyo Carp, I apply my machine learning and problem-solving skills to help the team optimize its strategy, player development, data engineering, and R&D.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Mark Chain Lineup Simulator",
+        "startDate": "2023",
+        "description": "Created a Markov-based baseball lineup simulator. Takes in both the lineup and the opposing pitcher and simulates the game 1,500 times. Outputs the average runs scored per game. Outperformed betting markets for MLB games in 2023.",
+        "images": [
+          "images/portfolio/Markov Chain Simulator/lineup.jpg",
+          "images/portfolio/Markov Chain Simulator/markov.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-pycharm-plain",
+            "name": "Pycharm"
+          }
+        ]
+      },
+      {
+        "title": "Pitch Grader",
+        "startDate": "2022",
+        "description": "Created a baseball pitch grader. It started as an independent project, but was later used by the Hiroshima Toyo Carp. It uses a neural network to grade pitches based on their movement and velocity. It was used to help decide the starting rotation.",
+        "images": [
+          "images/portfolio/pitchgrader/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "Jupyter"
+          },
+          {
+            "class": "devicon-pycharm-plain",
+            "name": "Pycharm"
+          }
+        ]
+      },
+      {
+        "title": "Bullpen Usage Score",
+        "startDate": "2021",
+        "description": "One of the first projects I was working on with the Huskies. I calculated the leverage index of each situation and used that to determine the optimal bullpen usage. I compared that with the actual bullpen usage and relayed the results to the coaching staff.",
+        "images": [
+          "images/portfolio/bullpen usage/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Northeastern Univeristy Baseball",
+        "title": "Data Analyst",
+        "years": "09.2021 - present",
+        "mainTech": [
+          "Python, Jupyter, PyCharm"
+        ],
+        "technologies": [
+          "Lineup Simulator",
+          "Pitch Grader",
+          "Stolen Base Thresholds",
+          "Bunt Thresholds",
+          "Bullpen Optimization",
+          "Swing Decisions"
+        ]
+      },
+      {
+        "company": "Hiroshima Toyo Carp",
+        "title": "Data Analyst",
+        "years": "07.2023 - present",
+        "mainTech": [
+          "Python, Jupyter, PyCharm"
+        ],
+        "technologies": [
+          "Lineup Simulator",
+            "Pitch Grader",
+            "Stolen Base Thresholds",
+            "Bunt Thresholds",
+            "Bullpen Optimization",
+            "Swing Decisions",
+            "Player Development",
+            "Data Engineering",
+            "R&D"
+
+        ]
+      }
+    ]
+  }
